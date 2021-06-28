@@ -1,6 +1,5 @@
 # GraduationTasks
 
-# Graduation Task
   
 # 企画書  
 ### メンバー  
