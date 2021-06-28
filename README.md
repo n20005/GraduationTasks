@@ -12,7 +12,7 @@
 ### References
 
 - [スケジュール]
-- [企画書]
+- [企画書](https://docs.google.com/document/d/1oL-5le2ZZnEYLWBrhmBJ-Xkgj5WsAc5DD253J9INYJY/edit)
 - [仕様書]
 - [ソース]
 - [プレゼンテーション]
