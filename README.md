@@ -11,8 +11,8 @@
 
 ### References
 
-- [スケジュール](./docs/Schedule.md)
-- [企画書](./docs/Proposal.md)
+- [スケジュール]
+- [企画書]
 - [仕様書]
 - [ソース]
 - [プレゼンテーション]
